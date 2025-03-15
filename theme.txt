@@ -1,13 +1,14 @@
-title-text: ""
+title-text: "Ciallo～(∠・ω< )⌒★"
 desktop-image: "background.png"
 terminal-left: "0"
 terminal-top: "0"
 terminal-border: "0"
 terminal-width: "100%"
 terminal-height: "100%"
+terminal-font: "Mono Nerd Font Mono 32"
 
 + boot_menu {
-  left = 120
+  left = 390
   top = 47%
   width = 472
   height = 35%
