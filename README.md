@@ -4,7 +4,9 @@ A theme of Hatsune Miku for Grub!
 adapted for 3072x1920 screen!
 
 ## Installation
-
+pre :
+you need to install JetBrainsMono Nerd Font Mono 
+> arch: 'pacman -S ttf-jetbrains-mono-nerd'
 1. Download & Unzip
 
 2. Copy `HatsuneMiku` into grub themes directory:
