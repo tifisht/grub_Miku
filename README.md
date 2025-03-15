@@ -1,6 +1,7 @@
-# Hatsune Miku Grub Theme
+# Hatsune Miku Grub Theme(adapted for 3072x1920 screen!)
 
 A theme of Hatsune Miku for Grub!
+adapted for 3072x1920 screen!
 
 ## Installation
 
