@@ -3,6 +3,9 @@
 A theme of Hatsune Miku for Grub!
 adapted for 3072x1920 screen!
 
+Preview：
+![preview](./profile.jpg)
+
 ## Installation
 pre :
 you need to install JetBrainsMono Nerd Font Mono 
